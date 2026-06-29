@@ -34,11 +34,11 @@ Primeira sprint concluída.
 | T02.01 | Estrutura inicial do repo | ✅ entregue |
 | T02.02 | Lift-and-shift do `internal/integration/reformatax` do OTAX-001 | ✅ entregue |
 | T02.03 | Validators BR (CPF/CNPJ/NCM/CFOP/CNAE) | ✅ entregue |
-| T02.04 | Datasets de alíquotas (ICMS por UF, PIS/COFINS por regime, ISS por município piloto) | ⏳ planejado |
+| T02.04 | Datasets de alíquotas (ICMS por UF, PIS/COFINS por regime, ISS por município piloto) | ✅ entregue |
 | T02.05 | OTAX-001 + OTAX-002 consomem via Go module | ✅ entregue |
 | T02.06 | ADR + migration guide | ✅ entregue |
 | T02.07 | UF→IBGE canônico | ✅ entregue |
-| T02.08 | CSTs por imposto (ICMS, PIS, COFINS) | ⏳ planejado |
+| T02.08 | CSTs por imposto (ICMS, PIS, COFINS) | ✅ entregue |
 
 ## Fora do escopo MVP
 
